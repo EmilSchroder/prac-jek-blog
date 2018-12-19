@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-This is a contact page
+Hey cool cats! You can find me around at [my super cool website](www.deadlink.ocm)
